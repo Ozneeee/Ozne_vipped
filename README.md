@@ -15,7 +15,7 @@ Preview :
 
 -Require esx 
 -Require skinchanger & esx_skin WITH PEDS !!
--Requie pxrp_vip
+-Requie pxrp_vip : https://github.com/KingRyuShin/pxrp_vip
 
 ``start pxrp_vip``
 
