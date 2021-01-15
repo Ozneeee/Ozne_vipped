@@ -11,11 +11,11 @@ For help & more Scripts : https://discord.gg/nx3TKM5
 
 !! RENAME & RESSELL FORBIDEN !!
 
-Preview :
+Preview : https://www.youtube.com/watch?v=fsGeOvPzuL8
 
 -Require esx 
 
--Require skinchanger & esx_skin WITH PEDS !!
+-Require skinchanger WITH PEDS !!
 
 -Requie pxrp_vip : https://github.com/KingRyuShin/pxrp_vip
 
